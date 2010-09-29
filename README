@@ -1,0 +1,7 @@
+The consumer of the service.
+
+> git submodule add git@github.com:delitescere/cdc-consumer-contracts-for-provider.git vendor/contracts/cdc-provider
+
+* Alter reference in .gitmodules to:
+[submodule "contracts/cdc-provider"]
+

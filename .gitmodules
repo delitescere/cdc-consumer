@@ -1,0 +1,3 @@
+[submodule "contracts/cdc-provider"]
+	path = vendor/contracts/cdc-provider
+	url = git@github.com:delitescere/cdc-consumer-contracts-for-provider.git
